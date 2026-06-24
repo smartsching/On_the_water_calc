@@ -12,3 +12,5 @@ if student == "Y":
     price = price - 2
  
 print("Ticket price: $", price)
+
+#code update check
